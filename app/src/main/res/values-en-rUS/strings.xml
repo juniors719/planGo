@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="boas_vindas">Welcome to PlanGo!</string>
+    <string name="parceiro_viagens">Your travel partner.</string>
+    <string name="welcomeContentTitle1">Organize your suitcase and tasks</string>
+    <string name="welcomeContentSubtitle1">Create checklists to make sure you don\'t forget anything.</string>
+    <string name="welcomeContentTitle2">Plan your trip in detail</string>
+    <string name="welcomeContentSubtitle2">Add locations and important details for each stop.</string>
+    <string name="welcomeContentTitle3">Capture unforgettable moments!</string>
+    <string name="welcomeContentSubtitle3">Incorporate images into your notes to remember every detail.</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_with_google_button_text">Login with Google</string>
+    <string name="placeholder_email">Your email</string>
+    <string name="placeholder_senha">Your Password</string>
+    <string name="create_account_button_text">Sign Up</string>
+    <string name="login_screen_header">Welcome back!</string>
+    <string name="signup_screen_header">Register</string>
+    <string name="placeholder_name">" What do you want to be called?"</string>
+    <string name="login_screen_subtitle">Login to your account</string>
+    <string name="signup_screen_subtitle">Create your account</string>
+    <string name="forgot_password_screen_header">Forgot Password</string>
+    <string name="forgot_password_instructions">Enter the email address associated with your account, and we\'ll send you instructions to reset your password.</string>
+    <string name="forgot_password_button">Send</string>
+    <string name="invalid_email_warnig">" Please enter a valid email"</string>
+    <string name="profile_screen_header">Profile</string>
+    <string name="title_explore_screen">Explore</string>
+    <string name="title_profile_screen">Profile</string>
+    <string name="forgot_password_textbutton">Forgot my password</string>
+    <string name="main_screen_title">My Trips</string>
+    <string name="edit_profile_screen_title">Edit Profile</string>
+    <string name="edit_profile_button">Save</string>
+    <string name="edit_profile_change_password_textbutton">Change password</string>
+
+</resources>

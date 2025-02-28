@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1069990522108",
+    "project_id": "plango-69a9b",
+    "storage_bucket": "plango-69a9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069990522108:android:f931eec815747eadfafb79",
+        "android_client_info": {
+          "package_name": "com.example.plango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069990522108-vaa2hs4fq4hb6v7v6e0fmo212oa45had.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plango",
+            "certificate_hash": "6cbdf275800025881a9ac5cb57060612ab77f353"
+          }
+        },
+        {
+          "client_id": "1069990522108-c29rem9u99qe3lh8uep7dvppn2002o1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJUjUe-z9J--mASXs5ugRzoobFzvPKmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069990522108-c29rem9u99qe3lh8uep7dvppn2002o1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">PlanGo</string>
+    <string name="default_web_client_id" translatable="false">PlanGo</string>
+    <string name="boas_vindas">Seja bem-vindo ao Plango!</string>
+    <string name="parceiro_viagens">Seu parceiro de viagens.</string>
+    <string name="welcomeContentTitle1">Organize sua mala e tarefas</string>
+    <string name="welcomeContentSubtitle1">Crie checklists para garantir que você não vai esquecer nada.</string>
+    <string name="welcomeContentTitle2">Planeje em detalhes o seu rolê</string>
+    <string name="welcomeContentSubtitle2">Adicione localizações e detalhes importantes para cada parada.</string>
+    <string name="welcomeContentTitle3">Capture momentos inesquecíveis!</string>
+    <string name="welcomeContentSubtitle3">Incorpore imagens às suas anotações para lembrar cada detalhe.</string>
+    <string name="login_button_text">Entrar</string>
+    <string name="login_with_google_button_text">Entrar com Google</string>
+    <string name="placeholder_email">Seu email</string>
+    <string name="placeholder_senha">Sua senha</string>
+    <string name="create_account_button_text">Criar Conta</string>
+    <string name="login_screen_header">Bem-vindo de volta!</string>
+    <string name="signup_screen_header">Registre-se</string>
+    <string name="placeholder_name">Como você quer ser chamado?</string>
+    <string name="login_screen_subtitle">Entre na sua conta</string>
+    <string name="signup_screen_subtitle">Crie a sua conta</string>
+    <string name="forgot_password_screen_header">Esqueci minha senha</string>
+    <string name="forgot_password_instructions">Insira o endereço de e-mail associado à sua conta e enviaremos instruções para redefinir sua senha.</string>
+    <string name="forgot_password_button">Enviar</string>
+    <string name="invalid_email_warnig">Por favor, insira um email válido</string>
+    <string name="profile_screen_header">Perfil</string>
+    <string name="title_home_screen" translatable="false">Home</string>
+    <string name="title_explore_screen">Explorar</string>
+    <string name="title_profile_screen">Perfil</string>
+    <string name="forgot_password_textbutton">Esqueci minha senha</string>
+    <string name="main_screen_title">Minhas Viagens</string>
+    <string name="edit_profile_screen_title">Editar Perfil</string>
+    <string name="edit_profile_button">Salvar</string>
+    <string name="edit_profile_change_password_textbutton">Mudar senha</string>
+
+
+</resources>
